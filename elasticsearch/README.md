@@ -1,0 +1,1 @@
+a convenient wrapper to some of ElasticSearch API

@@ -1,0 +1,2 @@
+{"index":{}}
+{"@timestamp":"2016-11-09T17:16:28+08:00","level":"error","message":"an error","pos":{"pkg":"appcoachs.net/x/m","file":"cron.go","func":"cronJob.func1","line":21},"process":"./m","release":"20160603"}
